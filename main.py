@@ -1,5 +1,5 @@
 # ---------------------------------------------
-#  ALL THE CODE BELLOW USES PYTHON 2 SYNTAX
+#   ALL THE CODE BELLOW USES PYTHON 2 SYNTAX
 # ---------------------------------------------
 
 # CREATING A CLASS WITH A CONTRUCTOR (__init__):
